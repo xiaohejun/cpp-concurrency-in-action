@@ -1,0 +1,1 @@
+add_executable(1_1_thread_hello_world 1_1_thread_hello_world.cpp)
