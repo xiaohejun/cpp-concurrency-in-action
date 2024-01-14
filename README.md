@@ -10,7 +10,7 @@
 ❯ tree .
 .
 ├── CMakeLists.txt // cmake文件，管理代码编译
-├── READEME.md // reademe文件
+├── README.md // reademe文件
 ├── doc // 笔记
 └── src // 所有代码
 ```
